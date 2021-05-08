@@ -1,0 +1,23 @@
+#header{
+    width:100%;
+    height:100px;
+    background-color: #C0392B;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#links{
+    width:200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#links>a{
+    text-decoration: none;
+    color: white;
+}
+#logo{
+    font-size: 25px;
+    font-weight: 900;
+}

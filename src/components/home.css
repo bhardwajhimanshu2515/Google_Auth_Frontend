@@ -1,0 +1,8 @@
+#hello{
+    width: 50%;
+    margin: 40px 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
